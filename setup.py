@@ -42,7 +42,7 @@ setup(
         """),
     long_description = file_contents('README.txt'),
     classifiers = format_classifiers("""
-        Development Status :: 4 - Beta
+        Development Status :: 2 - Pre-Alpha
         Intended Audience :: Developers
         License :: OSI Approved :: BSD License
         Operating System :: OS Independent
